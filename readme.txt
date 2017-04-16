@@ -5,4 +5,4 @@ Git tracks changes of files.
 
 Good good study,day day up!
 
-Create a new branch dev.
+Create two new branchs.
