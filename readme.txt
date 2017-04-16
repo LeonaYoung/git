@@ -6,3 +6,5 @@ Git tracks changes of files.
 Good good study,day day up!
 
 Create two new branchs.
+
+Git branch is powerful.
