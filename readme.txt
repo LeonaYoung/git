@@ -11,4 +11,6 @@ Git branch is powerful.
 
 This is a test branch.
 
-This is new version to complete. 
+This is new version to complete.
+
+Bob change something.
