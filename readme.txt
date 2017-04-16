@@ -3,7 +3,7 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 
-Good good study,day day up!
+good good study , day day up!
 
 Create two new branchs.
 
